@@ -42,7 +42,7 @@ Feel free to submit issues or pull requests if you have improvements or suggesti
 
 
 ## Contact
-For any inquiries or support, reach out via GitHub issues or contact **VEERARAGAVA07@Gmail@example.com**.
+For any inquiries or support, reach out via GitHub issues or contact **veeraragava07@Gmail@example.com**.
 
 ---
 **Happy Analyzing! 🎬📊**
