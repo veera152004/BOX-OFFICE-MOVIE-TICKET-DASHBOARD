@@ -40,11 +40,9 @@ Welcome to the **Box Office Movie Ticket** Power BI dashboard repository. This d
 ## Contributing
 Feel free to submit issues or pull requests if you have improvements or suggestions!
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or support, reach out via GitHub issues or contact **your-email@example.com**.
+For any inquiries or support, reach out via GitHub issues or contact **VEERARAGAVA07@Gmail@example.com**.
 
 ---
 **Happy Analyzing! 🎬📊**
